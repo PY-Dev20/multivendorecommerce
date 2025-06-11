@@ -151,4 +151,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Let me know if you'd like this split into multiple files or want to generate a Figma link section or folder-specific READMEs too!
