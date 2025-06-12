@@ -65,5 +65,6 @@ vendorSchema.methods.comparePassword = async function (
 ) {
   return await bcrypt.compare(enteredPassword, this.password);
 };
+
 const Vendor = mongoose.models.Vendor || mongoose.model("Vendor", vendorSchema);
 export default Vendor;
