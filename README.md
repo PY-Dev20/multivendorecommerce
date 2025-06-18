@@ -142,7 +142,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 For any questions or support, feel free to reach out at:
 📧 Email: aboodi.nour@gmail.com  
-🔗 GitHub: [github.com/PY-Dev20/multivendor-ecommerce](https://github.com/yourusername/multivendor-ecommerce)
+🔗 GitHub: [github.com/PY-Dev20/multivendor-ecommerce](https://github.com/PY-Dev20/multivendorecommerce)
 
 ---
 
