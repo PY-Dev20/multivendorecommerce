@@ -14,7 +14,7 @@ cloudinary.v2.config({
 
 // create a category for vendor:
 export const createCategory = async (name: string, images: string[]) => {
-  try {
+   try {
     await connectToDatabase();
     const test = await Category.findOne({ name });
     if (test) {

@@ -118,7 +118,8 @@ yarn android
 yarn ios
 # or
 yarn web
-```
+`
+``
 
 ---
 
