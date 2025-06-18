@@ -141,8 +141,8 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 ## 📬 Contact
 
 For any questions or support, feel free to reach out at:
-📧 Email: hello@multivendorecommerce.com  
-🔗 GitHub: [github.com/yourusername/multivendor-ecommerce](https://github.com/yourusername/multivendor-ecommerce)
+📧 Email: aboodi.nour@gmail.com  
+🔗 GitHub: [github.com/PY-Dev20/multivendor-ecommerce](https://github.com/yourusername/multivendor-ecommerce)
 
 ---
 
